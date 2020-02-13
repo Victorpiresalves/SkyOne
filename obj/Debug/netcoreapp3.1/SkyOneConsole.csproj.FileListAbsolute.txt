@@ -1,0 +1,11 @@
+D:\SkyOne\SkyOneConsole\SkyOneConsole\bin\Debug\netcoreapp3.1\SkyOneConsole.exe
+D:\SkyOne\SkyOneConsole\SkyOneConsole\bin\Debug\netcoreapp3.1\SkyOneConsole.deps.json
+D:\SkyOne\SkyOneConsole\SkyOneConsole\bin\Debug\netcoreapp3.1\SkyOneConsole.runtimeconfig.json
+D:\SkyOne\SkyOneConsole\SkyOneConsole\bin\Debug\netcoreapp3.1\SkyOneConsole.runtimeconfig.dev.json
+D:\SkyOne\SkyOneConsole\SkyOneConsole\bin\Debug\netcoreapp3.1\SkyOneConsole.dll
+D:\SkyOne\SkyOneConsole\SkyOneConsole\bin\Debug\netcoreapp3.1\SkyOneConsole.pdb
+D:\SkyOne\SkyOneConsole\SkyOneConsole\obj\Debug\netcoreapp3.1\SkyOneConsole.csprojAssemblyReference.cache
+D:\SkyOne\SkyOneConsole\SkyOneConsole\obj\Debug\netcoreapp3.1\SkyOneConsole.AssemblyInfoInputs.cache
+D:\SkyOne\SkyOneConsole\SkyOneConsole\obj\Debug\netcoreapp3.1\SkyOneConsole.AssemblyInfo.cs
+D:\SkyOne\SkyOneConsole\SkyOneConsole\obj\Debug\netcoreapp3.1\SkyOneConsole.dll
+D:\SkyOne\SkyOneConsole\SkyOneConsole\obj\Debug\netcoreapp3.1\SkyOneConsole.pdb
